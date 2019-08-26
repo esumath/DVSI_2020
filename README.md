@@ -1,7 +1,5 @@
-# Tentative Schedule
+# Tentative Schedule (June 22 - 26, 2020)
 ESU 2020  Data Visualization Summer Institute
-
-
 
 
 **Day   Date    Session          Resources        Description**
