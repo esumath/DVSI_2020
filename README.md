@@ -3,17 +3,8 @@ ESU 2020  Data Visualization Summer Institute
 
 
 
-Day
 
-Date
-
-Session
-
-Resources
-
-Description
-
-
+**Day   Date    Session          Resources        Description**
 1 2020-06-22 8:30AM - 9:30AM Welcome and motivation, PDF Why you’re here 
 1 2020-06-22 9:30AM - 10:40AM Introduction to R R data structures 
 1 — 10:40AM - 11:00AM Break — 
