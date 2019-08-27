@@ -116,9 +116,9 @@ ESU 2020  Data Visualization Summer Institute
 
 5 — 12:00PM - 1:00PM Lunch — 
 
-5 2020-06-26 1:00PM - 2:40PM Shiny App R Shiny App 
+5 2020-06-26 1:00PM - 2:40PM  R Shiny App 
 
 5 — 2:40PM - 3:00PM Break — 
 
-5 2020-06-26 3:00PM - 4:30PM Shiny lab R Shiny App lab 
+5 2020-06-26 3:00PM - 4:30PM  R Shiny App lab 
 
