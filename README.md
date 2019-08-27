@@ -2,7 +2,7 @@
 ESU 2020  Data Visualization Summer Institute
 
 
-**Day \;\;  Date                Session                       Description**
+**Day                Date                    Session                       Description**
 
 1 2020-06-22 8:30AM - 9:30AM Welcome and motivation, PDF 
 
